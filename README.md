@@ -15,4 +15,7 @@
     <img align="center" alt="Flutter" src=https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white>
     <img align="center" alt="Flutter" src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white>
     <img align="center" alt="Flutter" src=https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white>
-</div>
+</div><br/>
+
+## Perfil Pessoal
+Sou um grande apreciador de Tecnologias e inovações em geral. Estou me graduando pela PUC Goiás - Pontifíca Universidade Católica de Goiás, em Análise e Desenvolveimento de Sistemas, possuo ótimas habilidades em comunicação, trabalho com flutter e dart desde 12/08/2019, sendo essa tecnologia meu carro chefe, mais, atualmente me especializando em kotlin, e me consolidando como um Desenvolvedor Mobile.
