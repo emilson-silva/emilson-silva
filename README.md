@@ -24,5 +24,12 @@
 </div><br/>
 
 ## Perfil Pessoal
-#### Desenvolvedor Flutter há + de 4 anos, trabalhando com as seguintes tecnologias: Dart, Flutter, Android, iOS, Bloc, Provider, Moor Flutter, Cubit Metodologias Ágeis como Jira, Bitibucket, Confluencer, Kanban, Azure, Scrum,arquiteturs MVC, MVVM, Clean Architecture, Clean Code,gerenciamentos de Setados Slidy, Mobx, Getx,trabalhei com Dio, http, rest... Tenho conhecimento em fazer  upload para as lojas como: Play Store e Apple Store, domínio no Firebase como mensagens de notificação por push e Analytics. Experiência com o Gitflow, atualmente estudando nativo mais especificamente Swift. Cursando Análise e Desenvolvimento de Sistemas na PUC-GOIÁS. Trabalhei na SIGA SERICE LTDA de 17/01/2020 de agosto de 2020 , Trinus Tecnologia LTDA de 03/02/2020 e atualmente estou trabalhando na BRQ, no time do Banco Next em ambas trabalhei com flutter, na Sigamed trabalhei em um aplicativo de Teleconsulta e na Trinus trabalhei em um super App que possui Banco Digital, Meus imóveis, assinatura de contrato entre outros, e no Next estou na equipe de Designer System, tenho experiência com a biblioteca de gerenciamento de estado Getx.
+#### Olá, sou o Emilson.
 
+Sou desenvolvedor Front end com mais de 5 anos de experiência no desenvolvimento de aplicações Mobile utilizando Flutter (animações e internacionalização, modular e injeção de dependência), Dart, Android, Designer Pattterns (Bloc, Provider, Moor, Cubit, Slidy, Getx e Mobx), Arquiteturas de Código (MVC, MVVM, Clean Architecture e Clean Code), Dio, HTTP, Git, Bitbucket, Gitflow, Figma, Confluence, Jira, Azure e metodologia ágil Kanban e Scrum e acessibilidade. 
+Graduando em Análise e Desenvolvimento de Sistemas, com conhecimentos em Kotlin, iOS, Design System, Unit Test, Widgget Test, Firebase (Analytics, Crashlytics, Push Notification, Remot Config, Database e APP distribution), CI/CD, Mobile Center, APIs REST, GraphQL, Micro Apps, Criação de Plugins com MethodChannel e SOLID. 
+Atualmente, faço parte de uma Squad Pix no Banco Next/Bradesco, onde contribuo para o desenvolvimento e evolução de funcionalidades críticas como Pix Copia e Cola, Pix Agendado, Pix Automático e Extrato Pix, utilizando Flutter, Kotlin e Java integrados ao Design System e aos microsserviços do banco. melhora aqui
+Meu objetivo é sempre agregar valor e fazer a diferença nos projetos e empresas em que atuo.
+Sou uma pessoa com adaptabilidade, flexibilidade e com espírito de liderança, além de ter facilidade de adaptação a mudanças e foco no trabalho em equipe.
+Meu contato:
+E-mail:emilsongyn17@gmail.com
